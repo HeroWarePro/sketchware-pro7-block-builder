@@ -1,1 +1,14 @@
-
+{
+  "sketchware_version": "7.0 PRO",
+  "default_sketchware_path": "/storage/emulated/0/.sketchware",
+  "target_dirs": {
+    "mysc_blocks": "/storage/emulated/0/.sketchware/mysc",
+    "backup_dir": "./backups"
+  },
+  "block_defaults": {
+    "palette": "242",
+    "color": "#E53935",
+    "type": " ",
+    "typeName": ""
+  }
+}

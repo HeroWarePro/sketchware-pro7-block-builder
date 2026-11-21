@@ -5,5 +5,5 @@ Ferramenta leve para construir, validar e organizar blocos JSON voltados princip
 ## Como usar (`git clone`)
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/sketchware-pro7-block-builder.git](https://github.com/SEU_USUARIO/sketchware-pro7-block-builder.git)
+git clone https://github.com/HeroWarePro/sketchware-pro7-block-builder.git
 cd sketchware-pro7-block-builder
